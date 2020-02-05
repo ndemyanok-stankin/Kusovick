@@ -1,0 +1,44 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class Modules as "Модуль"
+
+
+class In as "Программый модуль"
+class Out as "БД"
+
+class Auth as "Модуль пр. автор."
+class Sem as "Модуль сем. рас."
+class Inst as "Модуль Форм. инст."
+class Kontr as "Возможные контрагенты"
+class Komp as "Модуль выделения компонентов"
+class Pat as "Модуль ген. и под. паттерна"
+class Zap as "Модуль форм. з."
+class ZapR as "Модуль расп. з."
+class Trans as "Модуль Форм. отд. тр."
+class Plan as "Модуль пл."
+
+
+Modules<|-- In
+Modules<|-- Out
+
+In<|-- Auth 
+In<|-- Sem 
+In<|-- Inst 
+In<|-- Komp 
+In<|-- Pat 
+In<|-- Zap 
+In<|-- ZapR
+In<|-- Trans 
+In<|-- Plan
+
+Out<|-- Kontr 
+
+
+hide members
+hide circle
+hide methods
+@enduml
