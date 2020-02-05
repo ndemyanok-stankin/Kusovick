@@ -1,0 +1,42 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+
+class Entity as "Поток"
+
+class Info as "Информационный"
+
+class Auth as "Подтверждение авторизации"
+class Upr as "Управляющее воздействие"
+
+class NabInst as "Набор инструкций"
+class Comm as "Команда"
+
+
+class FormZ as "Формализованный запрос"
+
+class ProvZ as "Проверенный запрос"
+
+class TransP as "План транзакций"
+
+
+
+Entity <|-- Info
+Info <|-- Comm 
+Info <|-- NabInst 
+Info <|-- ProvZ 
+Info<|-- NabInst 
+Info<|-- FormZ 
+Info<|-- TransP 
+Info<|-- Auth 
+Info<|-- Upr 
+
+
+
+hide members
+hide circle
+hide methods
+@enduml
