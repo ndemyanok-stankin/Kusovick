@@ -32,3 +32,6 @@ DFD:
 
 ![ER-диаграмма ролей](https://github.com/ndemyanok-stankin/Kusovick/blob/master/234.txt)
 ![none](https://github.com/ndemyanok-stankin/Kusovick/blob/master/UbiUoBYj-BslUbz.png)
+
+![ER-диаграмма модулей](https://github.com/ndemyanok-stankin/Kusovick/blob/master/345.txt)
+![none](https://github.com/ndemyanok-stankin/Kusovick/blob/master/TSot3utKtmU8c_Ss.png)
