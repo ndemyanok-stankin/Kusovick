@@ -27,8 +27,8 @@ DFD:
 ![none](https://github.com/ndemyanok-stankin/Kusovick/blob/master/205_A23.png)
 ![none](https://github.com/ndemyanok-stankin/Kusovick/blob/master/307_A32.png)
 
-![ER-диаграмма потоков](https://github.com/ndemyanok-stankin/Kusovick/blob/master/123.txt)
-![none](https://github.com/ndemyanok-stankin/Kusovick/blob/master/5YCrL7Qbg.png)
+![ER-диаграмма потоков](https://github.com/ndemyanok-stankin/Kusovick/blob/master/456.txt)
+![none](https://github.com/ndemyanok-stankin/Kusovick/blob/master/2beuJlhgB7-akVO96ly6wslu1J.png)
 
 ![ER-диаграмма ролей](https://github.com/ndemyanok-stankin/Kusovick/blob/master/234.txt)
 ![none](https://github.com/ndemyanok-stankin/Kusovick/blob/master/UbiUoBYj-BslUbz.png)
