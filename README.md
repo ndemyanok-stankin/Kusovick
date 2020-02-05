@@ -15,7 +15,7 @@ IDEF0:
 ![none](https://github.com/ndemyanok-stankin/Kusovick/blob/master/201_A0.png)
 ![none](https://github.com/ndemyanok-stankin/Kusovick/blob/master/202_A0.png)
 ![none](https://github.com/ndemyanok-stankin/Kusovick/blob/master/203_A2.png)
-![none](https://github.com/ndemyanok-stankin/Kusovick/blob/master/205_A23.png)
+![none](https://github.com/ndemyanok-stankin/Kusovick/blob/master/206_A3.png)
 
 Определение основных средств автоматизации.
 Определение конфигурации технических средств - сервер, мобильное устройство под управление ОС Android или IOS.
@@ -24,5 +24,5 @@ IDEF0:
 
 DFD:                                                                                                     
 ![none](https://github.com/ndemyanok-stankin/Kusovick/blob/master/204_A22.png)
-![none](https://github.com/ndemyanok-stankin/Kusovick/blob/master/206_A3.png)
+![none](https://github.com/ndemyanok-stankin/Kusovick/blob/master/205_A23.png)
 ![none](https://github.com/ndemyanok-stankin/Kusovick/blob/master/207_A32.png)
