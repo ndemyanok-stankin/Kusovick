@@ -26,3 +26,6 @@ DFD:
 ![none](https://github.com/ndemyanok-stankin/Kusovick/blob/master/204_A22.png)
 ![none](https://github.com/ndemyanok-stankin/Kusovick/blob/master/205_A23.png)
 ![none](https://github.com/ndemyanok-stankin/Kusovick/blob/master/207_A32.png)
+
+![ER-диаграмма потоков](https://github.com/ndemyanok-stankin/Kusovick/blob/master/123.txt)
+![none](https://github.com/ndemyanok-stankin/Kusovick/blob/master/5YCrL7Qbg.png)
