@@ -35,3 +35,9 @@ DFD:
 
 ![ER-диаграмма модулей](https://github.com/ndemyanok-stankin/Kusovick/blob/master/345.txt)
 ![none](https://github.com/ndemyanok-stankin/Kusovick/blob/master/TSot3utKtmU8c_Ss.png)
+
+Расчёт трудозатрат на выполнение проекта.                     
+![none](https://github.com/ndemyanok-stankin/Kusovick/blob/master/photo_2020-02-05_15-38-08.jpg)
+![none](https://github.com/ndemyanok-stankin/Kusovick/blob/master/photo_2020-02-05_15-39-09.jpg)
+![none](https://github.com/ndemyanok-stankin/Kusovick/blob/master/photo_2020-02-05_15-39-28.jpg)
+
