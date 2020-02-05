@@ -36,8 +36,21 @@ DFD:
 ![ER-диаграмма модулей](https://github.com/ndemyanok-stankin/Kusovick/blob/master/345.txt)
 ![none](https://github.com/ndemyanok-stankin/Kusovick/blob/master/TSot3utKtmU8c_Ss.png)
 
-Расчёт трудозатрат на выполнение проекта.                     
-![none](https://github.com/ndemyanok-stankin/Kusovick/blob/master/photo_2020-02-05_15-38-08.jpg)
+Расчёт трудозатрат на выполнение проекта.                   
+Определение количества функциональных точек:                       
+![none](https://github.com/ndemyanok-stankin/Kusovick/blob/master/photo_2020-02-05_15-38-08.jpg)           
+Трудозатраты по FPA IFPUG:                 
 ![none](https://github.com/ndemyanok-stankin/Kusovick/blob/master/photo_2020-02-05_15-39-09.jpg)
+Трудозатраты по COCOMO II:                     
 ![none](https://github.com/ndemyanok-stankin/Kusovick/blob/master/photo_2020-02-05_15-39-28.jpg)
-
+                 
+Расчёт трудозатрат на выполнение проекта:                     
+Расчет эффекта от внедрения проектируемой системы:
+Период рассмотрения = 12 месяцев.
+Т (Распределение затрат стандартным методом) = 2 часа/мес.
+t (Распределение затрат при помощи системы) = 2 часа (однократно) + 10 минут/мес.
+Без системы: 2 * 12 = 24 часа (за рассмотренный период)
+С системой: 2  + (10 * 12 / 60) = 4 часа (за рассмотренный период)
+24 - 4 = 20 часов ежегодно. выгода.
+24 / 4 * 100% - 100% = 500% (общий эффект от автоматизации)
+На основе временных расчетов, был сделан вывод о том, что эффект от использования проекта составляет 500%.
